@@ -1,0 +1,12 @@
+pandas==2.2.3
+python-dotenv==1.0.1
+sqlmodel==0.0.22
+SQLAlchemy==2.0.36
+psycopg2-binary==2.9.10
+streamlit==1.41.1
+reportlab==4.2.5
+matplotlib==3.9.2
+celery==5.4.0
+redis==5.2.1
+python-dateutil==2.9.0.post0
+python-pptx==1.0.2
