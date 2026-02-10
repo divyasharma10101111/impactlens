@@ -1,0 +1,6 @@
+client,account,platform,post_id,url,posted_at,caption,media_type,language,views,likes,comments,shares
+Demo Client,DemoTeam,instagram,ig_001,https://instagram.com/p/ig_001,2026-02-02T18:30:00+05:30,"Big win today! Thanks @dream11 for the support. #Dream11",reel,en,120000,5400,320,210
+Demo Client,DemoTeam,instagram,ig_002,https://instagram.com/p/ig_002,2026-02-03T11:00:00+05:30,"Matchday vibes. Powered by Tata. #TataIPL",post,en,80000,3300,210,120
+Demo Client,DemoTeam,youtube,yt_101,https://youtube.com/watch?v=yt_101,2026-02-05T20:15:00+05:30,"Highlights | Presented by CRED | Best moments",video,en,250000,9000,610,0
+Demo Client,DemoTeam,youtube,yt_102,https://youtube.com/watch?v=yt_102,2026-02-06T09:45:00+05:30,"Training day behind the scenes. #jio @reliancejio",short,en,180000,7000,430,0
+Demo Client,DemoTeam,instagram,ig_003,https://instagram.com/p/ig_003,2026-02-07T17:05:00+05:30,"Fans were amazing tonight! See you soon.",reel,en,60000,2100,98,70
